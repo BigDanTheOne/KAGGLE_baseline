@@ -1,8 +1,5 @@
 data_science_baseline
 ==============================
-
-A short description of the project.
-
 Project Organization
 ------------
 
